@@ -1,0 +1,70 @@
+#currency {
+    position:fixed;
+    top: 45%;
+    left: 80%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#date {
+    position:fixed;
+    top: 60%;
+    left: 80%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#order {
+    position:fixed;
+    top: 74%;
+    left: 80%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#product {
+    position:fixed;
+    top: 53%;
+    left: 80%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#Amount {
+    position:fixed;
+    top: 67%;
+    left: 80%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#Button {
+    position:fixed;
+    top: 91%;
+    left: 90%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}
+#Reset {
+    position:fixed;
+    top: 91%;
+    left: 99%;
+   
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+ 
+}

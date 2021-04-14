@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "http://localhost:9090/owners-association-app/static/css/main.56e5a808.chunk.css",
+    "main.js": "http://localhost:9090/owners-association-app/static/js/main.77e7268a.chunk.js",
+    "main.js.map": "http://localhost:9090/owners-association-app/static/js/main.77e7268a.chunk.js.map",
+    "runtime-main.js": "http://localhost:9090/owners-association-app/static/js/runtime-main.c4b78175.js",
+    "runtime-main.js.map": "http://localhost:9090/owners-association-app/static/js/runtime-main.c4b78175.js.map",
+    "static/css/2.150d169a.chunk.css": "http://localhost:9090/owners-association-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.78d9ee76.chunk.js": "http://localhost:9090/owners-association-app/static/js/2.78d9ee76.chunk.js",
+    "static/js/2.78d9ee76.chunk.js.map": "http://localhost:9090/owners-association-app/static/js/2.78d9ee76.chunk.js.map",
+    "static/js/3.0c4f5dad.chunk.js": "http://localhost:9090/owners-association-app/static/js/3.0c4f5dad.chunk.js",
+    "static/js/3.0c4f5dad.chunk.js.map": "http://localhost:9090/owners-association-app/static/js/3.0c4f5dad.chunk.js.map",
+    "index.html": "http://localhost:9090/owners-association-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "http://localhost:9090/owners-association-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.56e5a808.chunk.css.map": "http://localhost:9090/owners-association-app/static/css/main.56e5a808.chunk.css.map",
+    "static/js/2.78d9ee76.chunk.js.LICENSE.txt": "http://localhost:9090/owners-association-app/static/js/2.78d9ee76.chunk.js.LICENSE.txt",
+    "static/media/logo.9b13259e.png": "http://localhost:9090/owners-association-app/static/media/logo.9b13259e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b78175.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.78d9ee76.chunk.js",
+    "static/css/main.56e5a808.chunk.css",
+    "static/js/main.77e7268a.chunk.js"
+  ]
+}
